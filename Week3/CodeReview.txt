@@ -1,0 +1,12 @@
+Code Review
+
+Stage 1. NAMING CONVENTIONS
+	- rename Clasa1 to something more meaningful
+	- rename Calculeaza - use small caps
+	- rename the function arguments
+	- rename 'rezultat'
+	- rename 'valoare'
+	- format your code
+	
+	- remove the hard-coded values a.k.a magic numbers
+	- validate your input values
