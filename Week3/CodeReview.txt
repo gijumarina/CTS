@@ -12,4 +12,4 @@ Stage 1. NAMING CONVENTIONS
 	- validate your input values
 	- replace the if-then-else checks for the enum with switch
 	
-
+	-
